@@ -35,7 +35,7 @@ Repository designed to store company specific documents, templates and handover 
   - chameleonwebsite
     -	Handover Document
     -	Showcase Video
-    -	Other relevant handover documentation….
+    -	Website SRS
   - EVadoptiontools
     -	Handover Document
     -	Showcase Video
