@@ -1,4 +1,4 @@
-# Chameleon Mission
+# Chameleon Company Mission
 
 "Given the complexity of energy application needs today, IoT systems are being designed to address a wide variety of existing problems. 
 
