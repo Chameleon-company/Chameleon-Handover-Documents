@@ -41,7 +41,7 @@ Repository designed to store company specific documents, templates and handover 
   - [Chameleon Website](2022-T1/chameleonwebsite)
     -	Handover Document
     -	Showcase Video
-    -	Website SRS
+    -	[Website SOFTWARE REQUIREMENTS SPECIFICATION](2022-T1/chameleonwebsite/handover/SRS-Chameleon-WebsiteV1.0.docx)
   
   
   - [EV Adoption Tools](2022-T1/evadoptiontools)
