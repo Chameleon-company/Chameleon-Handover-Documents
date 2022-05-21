@@ -6,27 +6,25 @@ Repository designed to store company specific documents, templates and handover 
 ## Contents 
 
 - [Glossary](glossary) 
-  - [AI-DS Glossary.docx](glossary/AI-DS_Glossary-v20May2022.docx)
-  -	[AI-DS Glossary.pdf](glossary/AI-DS_Glossary-v20May2022.pdf)
-  -	[Chameleon_Glossary.docx](glossary/Chameleon_Glossary-v20May2022.docx)
-  -	[Chameleon_Glossary.pdf](glossary/Chameleon_Glossary-v20May2022.pdf)
+  -	[AI-DS Glossary](glossary/AI-DS_Glossary-v20May2022.pdf)
+  -	[Chameleon Glossary](glossary/Chameleon_Glossary-v20May2022.pdf)
 
 - [General](General) 
-  -	Company_Overview
-  -	Company_Structure 
-  -	Company_Teams&Roles
-  -	Week_by_Week_Checklist
+  -	Company Overview
+  -	Company Structure 
+  -	Company Teams and Roles
+  -	Week by Week Checklist
 
 - 2022-T1  
   - [OnTrack Task Submissions](2022-T1/ontracksubmissions) 
-    -	[2.1P Company Objectives and Structure](2022-T1/ontracksubmissions/2.1P Company Objectives and Structure.pdf)
+    -	[2.1P Company Objectives and Structure.pdf](2022-T1/ontracksubmissions/2.1P Company Objectives and Structure.pdf)
     -	[6.2P Company Project Update](2022-T1/ontracksubmissions/6.2P Company Project Update.pdf)
     -	[11.1P Company Handover and Showcase](2022-T1/ontracksubmissions/11.1P Company Handover and Showcase.pdf)
 
   - [City of Melbourne](2022-T1/cityofmelbourne)
     -	Handover Document
     -	Showcase Video
-    -	[Product Development Lifecycle](2022-T1/cityofmelbourne/Product Development Life Cycle.docx)
+    -	[Product Development Lifecycle](2022-T1/cityofmelbourne/handover/Product Development Life Cycle.docx)
     -	Installation of Development Environment Document
     -	Talisman Document 
     -	Adapting Jupyter Notebooks to put on the live site. 
