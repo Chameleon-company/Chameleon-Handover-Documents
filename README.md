@@ -27,15 +27,15 @@ Repository designed to store company specific documents, templates and handover 
     
     - [Web Development Team](2022-T1/cityofmelbourne/webdevteam)
       -	Talisman Document
-      -	Upskilling 
+      -	[Upskilling](2022-T1/cityofmelbourne/webdevteam/upskilling.md)
       -	Development Environment Setup Guide
   
-    -	Data Science Team
+    -	[Data Science Team](2022-T1/cityofmelbourne/datateam)
         -	Adapting Jupyter Notebooks to put on the live site. 
-        -	Upskilling
+        -	[Upskilling](2022-T1/cityofmelbourne/datateam/upskilling.md)
     
-    -	Design Team
-        -	Upskilling 
+    -	[Design Team](2022-T1/cityofmelbourne/designteam)
+        -	[Upskilling](2022-T1/cityofmelbourne/designteam/upskilling.md) 
         
   
   - [Chameleon Website](2022-T1/chameleonwebsite)
