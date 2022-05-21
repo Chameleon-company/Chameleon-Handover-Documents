@@ -10,32 +10,32 @@ Repository designed to store company specific documents, templates and handover 
   -	[Chameleon Glossary](glossary/Chameleon_Glossary-v20May2022.pdf)
 
 - [General](General) 
-  -	Company Overview
-  -	Company Structure 
-  -	Company Teams and Roles
+  -	[Company Mission](general/Company_Mission.md)
+  -	[Company Structure](general/Company_Structure.png) 
+  -	[Project Team Structure](general/Project_Team_Structure.png)
   -	Week by Week Checklist
 
 - [2022-T1](2022-T1)
   - [OnTrack Task Submissions](2022-T1/ontracksubmissions) 
-    - [2.1P Company Objectives and Structure](2022-T1/ontracksubmissions/2.1P Company Objectives and Structure.pdf)
-    - [6.2P Company Project Update](2022-T1/ontracksubmissions/6.2P Company Project Update.pdf)
-    - [11.1P Company Handover and Showcase](2022-T1/ontracksubmissions/11.1P Company Handover and Showcase.pdf)
+    - [2.1P Company Objectives and Structure](2022-T1/ontracksubmissions/2.1P_Company_Objectives_&_Structure.pdf)
+    - [6.2P Company Project Update](2022-T1/ontracksubmissions/6.2P_Company_Project_Update.pdf)
+    - 11.1P Company Handover and Showcase
  
   - [City of Melbourne](2022-T1/cityofmelbourne)
     -  Handover Document 
-    -	[Product Development Lifecycle](2022-T1/cityofmelbourne/Product Development Life Cycle.docx)
+    -	[Product Development Lifecycle](2022-T1/cityofmelbourne/Product_Development_Life_Cycle.docx)
     
     - [Web Development Team](2022-T1/cityofmelbourne/webdevteam)
       -	Talisman Document
-      -	Upskilling 
+      -	[Upskilling](2022-T1/cityofmelbourne/webdevteam/upskilling.md)
       -	Development Environment Setup Guide
   
-    -	Data Science Team
-      -	Adapting Jupyter Notebooks to put on the live site. 
-      -	Upskilling
+    -	[Data Science Team](2022-T1/cityofmelbourne/datateam)
+        -	Adapting Jupyter Notebooks to put on the live site. 
+        -	[Upskilling](2022-T1/cityofmelbourne/datateam/upskilling.md)
     
-    -	Design Team
-      -	Upskilling 
+    -	[Design Team](2022-T1/cityofmelbourne/designteam)
+        -	[Upskilling](2022-T1/cityofmelbourne/designteam/upskilling.md) 
         
   
   - [Chameleon Website](2022-T1/chameleonwebsite)
@@ -51,7 +51,7 @@ Repository designed to store company specific documents, templates and handover 
 
 - 2021-T3
   - [Melbourne Open Plaground](2021-T3/cityofmelbourne)
-    -	[Handover Document](2021-T3/cityofmelbourne/T3 2021 Handover Document.pdf)
+    -	[Handover Document](2021-T3/cityofmelbourne/T3_2021_Handover_Document.pdf)
 
 
 

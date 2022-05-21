@@ -1,7 +1,13 @@
-# Upskilling 
+# Upskilling Resources for the Web Development Team 
 
-Key upskilling areas for students within the Web Development Team
 
+
+## Areas to upskill in
+
+- ...
+
+
+## Resources
 
 
 
