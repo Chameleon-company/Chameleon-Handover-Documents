@@ -10,9 +10,9 @@ Repository designed to store company specific documents, templates and handover 
   -	[Chameleon Glossary](glossary/Chameleon_Glossary-v20May2022.pdf)
 
 - [General](General) 
-  -	Company Overview
-  -	Company Structure 
-  -	Company Teams and Roles
+  -	[Company Mission](general/Company Mission.md)
+  -	[Company Structure](general/Company Structure.png) 
+  -	[Project Team Structure](general/Project Team Structure.png)
   -	Week by Week Checklist
 
 - [2022-T1](2022-T1)
