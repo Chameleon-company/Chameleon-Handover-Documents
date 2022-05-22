@@ -14,6 +14,10 @@ Repository designed to store company specific documents, templates and handover 
   -	[Company Structure](general/Company_Structure.png) 
   -	[Project Team Structure](general/Project_Team_Structure.png)
   -	Week by Week Checklist
+  -	[Templates](general/templates)
+    - [Meeting Minutes Template](general/templates/Chameleon_Meeting_Minutes_Template)
+    - [Document Template](general/templates/Chameleon_Document_Template)
+    - [Powerpoint Template](general/templates/Chameleon_Powerpoint_Template)
 
 - [2022-T1](2022-T1)
   - [OnTrack Task Submissions](2022-T1/ontracksubmissions) 
