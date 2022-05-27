@@ -6,6 +6,11 @@
 ### GitHub
 GitHub is the repository for all aspects of the project, being able to push and pull requests, merge changes and navigate GitHub is an essential skill for being part of this project.
 
+### Trello
+**Trello:** Trello is the platform we use to plan all of our tasks and visualise our deliverables. We can also use this to assign team members tasks to do and easily see which tasks are being worked on during sprint 0, 1, and 2. 
+
+**Current Trello Board:** https://trello.com/b/ln6GEN45/melbourne-city
+
 ### Front end 
 **JavaScript, HTML, CSS:** The website content, styling, and functionality such as navbar, search input, and clickable buttons are all coded using these ubiquitous tools. 
 
