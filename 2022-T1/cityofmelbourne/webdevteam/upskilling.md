@@ -27,8 +27,17 @@ GitHub is the repository for all aspects of the project, being able to push and 
 **Visual Studio Code:** Visual Studio Code is a lightweight code editor which the Web Development Team uses for coding in the webapp. It allows for running the Flask server in a local development environment so we can see changes live in a browser, and it also has several useful extensions for working with GitHub, debugging, etc. 
 
 ## Resources
+### LinkedIn Learning Courses
 
 https://www.linkedin.com/learning-login/share?account=2104084&forceAccount=true&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcollections%2F6935139293145243648%3Ftrk%3Dshare_collection_url%26shareId%3DT1r%252F807kStG4%252FL3RiRA9%252Bg%253D%253D
 
 This is a collection of Linked in Learning modules which are essential knowledge within the Web Development Team.
+
+### Code Based Help
+- **Javascript:** https://www.javascript.com/learn/strings
+- **HTML:** https://www.w3schools.com/html/
+- **CSS:** https://www.w3schools.com/css/
+- **Python:** https://wiki.python.org/moin/BeginnersGuide
+- **Flask:** https://www.fullstackpython.com/flask.html
+- **Flask-Talisman:** https://pypi.org/project/talisman/
 
