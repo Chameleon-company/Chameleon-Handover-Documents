@@ -51,9 +51,9 @@ Repository designed to store company specific documents, templates and handover 
   
   
   - [EV Adoption Tools](2022-T1/evadoptiontools)
-    -	Handover Document
-    -	Showcase Video
-    -	Other relevant handover documentation….
+    -	Handover Document (2022-T1/evadoptiontools/evtools-handover.docx)
+    -	Showcase Video (https://www.youtube.com/watch?v=Q-lykyt00Ao)
+    - Devops Overview (https://youtu.be/HZBaVG00e7A)
 
 - 2021-T3
   - [Melbourne Open Plaground](2021-T3/cityofmelbourne)
