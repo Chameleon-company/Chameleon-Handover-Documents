@@ -15,7 +15,7 @@ The following two courses should be completed by team members before being grant
 ### Trello
 **Trello:** Trello is the platform we use to plan all of our tasks and visualise our deliverables. We can also use this to assign team members tasks to do and easily see which tasks are being worked on during sprint 0, 1, and 2. 
 
-**Current Trello Board:** https://trello.com/b/ln6GEN45/melbourne-city
+**T1 2022 Trello Board:** https://trello.com/b/ln6GEN45/melbourne-city
 
 ### General Python
 **SodaPy, Pandas, NumPy:** The DS Team works with the powerful, open-source Python language and its well-known utility libraries such as NumPy and Pandas. SodaPy is also used to access Melbourne Open Data through the Socrata API. 
