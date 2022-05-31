@@ -7,11 +7,10 @@
 ### GitHub
 GitHub is the repository for all aspects of the project, being able to push and pull requests, merge changes and navigate GitHub is an essential skill for being part of this project.
 
-The following two courses should be completed by team members before being granted access to the [Chameleon-company GitHub repositories](https://github.com/Chameleon-company).
+The following two courses should be completed by team members before being granted access to the [Chameleon Company GitHub Repositories](https://github.com/Chameleon-company).
 
-•	[GitHub Essential Training](https://www.linkedin.com/learning-login/share?account=2104084&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgithub-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DxP0CT7iYTKqKOKUK2W%252FmPA%253D%253D)
-
-•	[Learning GitHub](https://www.linkedin.com/learning-login/share?account=2104084&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-github%3Ftrk%3Dshare_ent_url%26shareId%3D%252Fjs1HoKbRNuo2%252F9IzZw4hw%253D%253D)
+- [GitHub Essential Training](https://www.linkedin.com/learning-login/share?account=2104084&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgithub-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DxP0CT7iYTKqKOKUK2W%252FmPA%253D%253D)
+- [Learning GitHub](https://www.linkedin.com/learning-login/share?account=2104084&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-github%3Ftrk%3Dshare_ent_url%26shareId%3D%252Fjs1HoKbRNuo2%252F9IzZw4hw%253D%253D)
 
 ### Trello
 **Trello:** Trello is the platform we use to plan all of our tasks and visualise our deliverables. We can also use this to assign team members tasks to do and easily see which tasks are being worked on during sprint 0, 1, and 2. 
@@ -47,7 +46,4 @@ https://www.linkedin.com/learning-login/share?account=2104084&forceAccount=true&
 - **GeoPy:** https://geopy.readthedocs.io/en/stable/
 - **Shapely:** https://geopy.readthedocs.io/en/stable/
 - **GeoPandas:** https://geopandas.org/en/stable/
-
-
-
-
+- **Folium:** https://python-visualization.github.io/folium/
