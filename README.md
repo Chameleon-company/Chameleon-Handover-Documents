@@ -13,7 +13,6 @@ Repository designed to store company specific documents, templates and handover 
   -	[Company Mission](general/Company_Mission.md)
   -	[Company Structure](general/Company_Structure.png) 
   -	[Project Team Structure](general/Project_Team_Structure.png)
-  -	Week by Week Checklist
   -	[Templates](general/templates)
     - [Meeting Minutes Template](general/templates/Chameleon_Meeting_Minutes_Template.docx)
     - [Document Template](general/templates/Chameleon_Document_Template.docx)
@@ -26,17 +25,13 @@ Repository designed to store company specific documents, templates and handover 
     - 11.1P Company Handover and Showcase
  
   - [City of Melbourne](2022-T1/cityofmelbourne)
-    -  Handover Document 
-    -	[Product Development Lifecycle](2022-T1/cityofmelbourne/Product_Development_Life_Cycle.docx)
+    - [Handover Artefacts](2022-T1/cityofmelbourne/handover)
     
     - [Web Development Team](2022-T1/cityofmelbourne/webdevteam)
-      -	Talisman Document
       -	[Upskilling](2022-T1/cityofmelbourne/webdevteam/upskilling.md)
-      -	Development Environment Setup Guide
-  
+
     -	[Data Science Team](2022-T1/cityofmelbourne/datateam)
-        -	Adapting Jupyter Notebooks to put on the live site. 
-        -	[Upskilling](2022-T1/cityofmelbourne/datateam/upskilling.md)
+      -	[Upskilling](2022-T1/cityofmelbourne/datateam/upskilling.md)
     
     -	[Design Team](2022-T1/cityofmelbourne/designteam)
         -	[Upskilling](2022-T1/cityofmelbourne/designteam/upskilling.md) 
@@ -44,7 +39,6 @@ Repository designed to store company specific documents, templates and handover 
   
   - [Chameleon Website](2022-T1/chameleonwebsite)
     -	Handover Document
-    -	Showcase Video
     -	[Website SOFTWARE REQUIREMENTS SPECIFICATION](2022-T1/chameleonwebsite/handover/SRS-Chameleon-WebsiteV1.0.docx)
     -	[Document Templates](2022-T1/chameleonwebsite/templates/)
     - [Upskilling](2022-T1/chameleonwebsite/handover/Chameleon_Website_Upskilling_resources.docx)
