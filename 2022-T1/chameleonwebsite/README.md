@@ -152,7 +152,7 @@ For each task that is created, the developer will do the following:
 * Once this is done, this will trigger the DevOps pipeline, which will automatically deploy the latest website version.
 * Once this is done, the ticket can be tested and then demonstrated to the client for additional feedback.
 
-In terms of rules for bitbucket, all development must be done on a feature branch and must be merged into the master only once it has been reviewed and approved by a senior developer.
+In terms of rules for Github, all development must be done on a feature branch and must be merged into the master only once it has been reviewed and approved by a senior developer.
 
 For future teams, this is a good reference for how to use feature branches:
 
