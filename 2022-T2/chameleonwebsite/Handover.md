@@ -24,5 +24,5 @@ If you don't have access to the sharepoint, reach out to the company director or
 
 **Showcase video:** https://deakin365.sharepoint.com/:v:/s/Chameleon2-Chameleon-Website/EYZU2SV4yYxMqNltimFiYikB2NEcQZdiRP1AkChGbZmmWA?e=CdN5Di
 
-**Websiste Content:** https://deakin365.sharepoint.com/:f:/s/Chameleon2-Chameleon-Website/EjbEdaQW-QhIjOdcQ8c7QaoBcRwCvpqLxg2qz_mT1_ACgg?e=SGGUgq
+**Website Content:** https://deakin365.sharepoint.com/:f:/s/Chameleon2-Chameleon-Website/EjbEdaQW-QhIjOdcQ8c7QaoBcRwCvpqLxg2qz_mT1_ACgg?e=SGGUgq
 
