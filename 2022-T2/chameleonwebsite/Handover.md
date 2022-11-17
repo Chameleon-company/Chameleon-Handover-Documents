@@ -5,7 +5,7 @@ If you don't have access to the sharepoint, reach out to the company director or
 
 **Sharepoint:** https://deakin365.sharepoint.com/:f:/s/Chameleon2-Chameleon-Website/EpnqBXULQzlOpjBaR00KQpYBVR9v-2SHA2BW8fVW9eDqxg?e=AQMeXq
 
-**T2 Handover Document:** https://deakin365.sharepoint.com/:w:/s/Chameleon2-Chameleon-Website/Ed8CwTAE7GVJiih8PNMN4mYBW3ZgJ9YOAVTPNj6iPuvOag?e=unLYQe
+**T2 Handover Document:** https://deakin365.sharepoint.com/:w:/s/Chameleon2/ETdWVNkM49VLtMv398W3vEsBjtpcUWNfYsqhdRrW9EPOtw?e=M1UJl0
 
 **Project Tracker**
 >Folder: https://deakin365.sharepoint.com/:f:/s/Chameleon2-Chameleon-Website/Ev7wKtm_1XBHgps9gqe0jFUBhKqrr8MJyK8V6ymGvTRzag?e=N3Rwz3
