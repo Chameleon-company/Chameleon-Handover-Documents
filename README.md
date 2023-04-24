@@ -1,7 +1,11 @@
-# Chameleon-Handover-Documents
+# Chameleon-Handover-Documents - NOW REDUNDANT
+THIS REPOSITORY IS REDUNDANT. ALL CONTENTS HAVE BEEN MIGRATED TO: [Chameleon Documents](https://github.com/Chameleon-company/Chameleon-Documents). 
+
+The migrated repository is now a directory within the Chameleon repository and is an exact copy of this repository. 
+
+### This Repo is scheduled for DELETION. Do not use this repo. 
+
 Repository designed to store company specific documents, templates and handover documents to assist new and current students 
-
-
 
 ## Contents 
 
